@@ -15,5 +15,14 @@
     "labels": ["dingtalk", "message"],
     "author": "gy@flow.ci",
     "version": "0.0.1"
+  },
+  
+  {
+    "name": "docker-build",
+    "source": "https://github.com/yang-guo-2016/flowci-plugin-dockerbuild",
+    "description": "Build and push docker image to registry",
+    "labels": ["docker"],
+    "author": "gy@flow.ci",
+    "version": "0.0.1"
   }
 ]
