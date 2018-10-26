@@ -24,5 +24,14 @@
     "labels": ["docker"],
     "author": "gy@flow.ci",
     "version": "0.0.1"
+  },
+  
+  {
+    "name": "demo",
+    "source": "https://github.com/yang-guo-2016/flowci-plugin-demo",
+    "description": "Demo plugin",
+    "labels": ["demo"],
+    "author": "gy@flow.ci",
+    "version": "0.0.1"
   }
 ]
