@@ -14,7 +14,7 @@
     "description": "Send job status from dingtalk",
     "labels": ["dingtalk", "message"],
     "author": "gy@flow.ci",
-    "version": "0.0.1"
+    "version": "0.0.2"
   },
   
   {
