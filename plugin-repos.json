@@ -11,10 +11,11 @@
   {
     "name": "dingtalk",
     "source": "https://github.com/yang-guo-2016/flowci-plugin-dingtalk",
+    "branch": "develop"
     "description": "Send job status from dingtalk",
     "labels": ["dingtalk", "message"],
     "author": "gy@flow.ci",
-    "version": "0.0.1"
+    "version": "0.0.2"
   },
   
   {
