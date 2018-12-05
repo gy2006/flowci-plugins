@@ -27,6 +27,15 @@
   },
   
   {
+    "name": "docker-clean",
+    "source": "https://github.com/yang-guo-2016/flowci-plugin-dockerclean",
+    "description": "clean docker image which created from docker-build plugin",
+    "labels": ["docker"],
+    "author": "gy@flow.ci",
+    "version": "0.0.1"
+  },
+  
+  {
     "name": "demo",
     "source": "https://github.com/yang-guo-2016/flowci-plugin-demo",
     "description": "Demo plugin",
